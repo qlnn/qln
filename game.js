@@ -323,7 +323,7 @@ SFX.start.src = "sfx/start.wav"
 SFX.flap.src = "sfx/flap.wav"
 SFX.score.src = "sfx/score.wav"
 SFX.hit.src = "sfx/hit.wav"
-SFX.die.src = "sfx/die.wav"
+SFX.die.src = "sfx/acha.wav"
 
 gameLoop();
 
